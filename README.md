@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I am currently working as a Lecturer of CSE, Daffodil International University, Dhaka-1341, Bangladesh
+I am currently working as a Lecturer in CSE, Daffodil International University, Dhaka-1341, Bangladesh
 
 
 ## 🌐 Socials:
